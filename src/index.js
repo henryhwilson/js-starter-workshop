@@ -1,5 +1,5 @@
 import $ from 'jquery';
-// import './style.scss';
+import './style.scss';
 
 // Called every second. Determines if "second" is plural, then displays
 // number of seconds while incrementing counter with "counter++"
